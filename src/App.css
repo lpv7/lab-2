@@ -56,11 +56,11 @@ body {
   justify-content: space-around;
   flex-wrap: wrap;
   padding: 10px;
-  gap: 10px;
+  gap: 12px;
   border-top: 4px gray solid; /*tried to edit hr; infuriating*/
 }
+
 h1,
-hr,
 h3,
 h4 {
   color: grey;
